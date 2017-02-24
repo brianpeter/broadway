@@ -1,0 +1,42 @@
+html{
+  font-family: Helvetica, sans-serif;
+  background-color: white;
+  text-align: center;
+  display: block;
+}
+
+h1 {
+  font-weight: bold;
+}
+.sky{
+  background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.jpg);
+  color: white;
+}
+
+.sky h1{
+  font-size: 70px;
+}
+
+.btn-nav{
+  font-size: 18px;
+  color: white;
+}
+
+#process.suport h1{
+  color: black;
+  font-size: 2em;
+}
+
+h2{
+  font-weight: bold;
+  display: block;
+}
+.support h2{
+  font-size: 23px;
+}
+
+div,
+p,
+h1{
+  display: block;
+}
